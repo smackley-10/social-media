@@ -1,0 +1,452 @@
+[
+ {
+  "number": 1,
+  "image": "lb-pin-01.png",
+  "board": "Award certificate ideas",
+  "title": "Certificate design idea: a football award named for one moment from the season",
+  "description": "Certificate design that goes past a name and a date. Two sentences of a coach's notes about Tyler, who moved to center and never missed a snap, became this whole award certificate. Jot a line or two about each player and learnerborn gives you a certificate, a letter, or both for each of them. Written with AI from your own notes, then reviewed and approved by you. About a minute per person. All names are made up.",
+  "alt_text": "Sample football award certificate for Tyler of the Eagles, The Never-Missed-a-Snap Award, with a full paragraph about moving to center and being the loudest voice in the huddle, under the coach's two-sentence notes.",
+  "link": "https://learnerborn.com/award-certificates",
+  "image_text": {
+   "label": "Sample: end of season, football",
+   "headline": "An award certificate named for one moment",
+   "footer": "Written with AI from the coach's own notes, then reviewed and approved by the coach. About a minute per person. All names are made up."
+  },
+  "sample_source": "etsy/kids.json id football-tyler"
+ },
+ {
+  "number": 2,
+  "image": "lb-pin-02.png",
+  "board": "Award certificate ideas",
+  "title": "Certificate design for a classroom award, with a paragraph about what they did",
+  "description": "Award certificate idea for a class: one line of a teacher's notes about Sofia, who cleans up the art table without being asked and helps whoever is still finishing, became a full certificate with its own title. Works the same for teams, camps and clubs. A certificate, a letter, or both for each person, written with AI from your notes and reviewed and approved by you. About a minute per person. All names are made up.",
+  "alt_text": "Sample classroom award certificate for Sofia in Room 8, The Always-There-to-Help Award, with a paragraph about cleaning up the art table and helping classmates finish, shown with the teacher's one-line note.",
+  "link": "https://learnerborn.com/award-certificates",
+  "image_text": {
+   "label": "Sample: classroom award",
+   "headline": "A classroom award that says why they earned it",
+   "footer": "Written with AI from the teacher's own notes, then reviewed and approved by the teacher. About a minute per person. All names are made up."
+  },
+  "sample_source": "etsy/kids.json id fourth-sofia"
+ },
+ {
+  "number": 3,
+  "image": "lb-pin-03.png",
+  "board": "Award certificate ideas",
+  "title": "Certificate design ideas for volleyball: an award and a letter from two lines of notes",
+  "description": "Certificate design for a volleyball player who moved to libero and dove for every ball. From two sentences of a coach's notes, learnerborn made the award certificate and a full letter. Pick a certificate, a letter, or both for each player. Written with AI from your own notes, then reviewed and approved by you. About a minute per person. Works for any sport, class or camp. All names are made up.",
+  "alt_text": "Sample volleyball award certificate for Nia of Northside 14U, The Dive-for-Every-Ball Award, beside a four paragraph letter from Coach Melissa about moving to libero and a semifinal dig, with the coach's notes.",
+  "link": "https://learnerborn.com/award-certificates",
+  "image_text": {
+   "label": "Sample: end of season, volleyball",
+   "headline": "A certificate and a letter, from two sentences",
+   "footer": "Written with AI from the coach's own notes, then reviewed and approved by the coach. About a minute per person. All names are made up."
+  },
+  "sample_source": "etsy/kids.json id volley-nia"
+ },
+ {
+  "number": 4,
+  "image": "lb-pin-04.png",
+  "board": "Award certificate ideas",
+  "title": "Certificate design for music students: an award for playing without looking",
+  "description": "Award certificate idea for music lessons: one sentence of a teacher's notes, that Sean can now play the whole intro to his favorite song without looking at his hands, became this full certificate. Also for dance studios, teams, classes and camps. A certificate, a letter, or both for each student, written with AI from your notes and reviewed and approved by you. About a minute per person. All names are made up.",
+  "alt_text": "Sample music award certificate for Sean of Saturday Guitar, The Plays-Without-Looking Award, with a paragraph about learning a song intro without looking at his hands, under the teacher's one-sentence note.",
+  "link": "https://learnerborn.com/award-certificates",
+  "image_text": {
+   "label": "Sample: music lessons",
+   "headline": "Award certificate ideas for music students",
+   "footer": "Written with AI from the teacher's own notes, then reviewed and approved by the teacher. About a minute per person. All names are made up."
+  },
+  "sample_source": "etsy/kids.json id guitar-sean"
+ },
+ {
+  "number": 5,
+  "image": "lb-pin-05.png",
+  "board": "Award certificate ideas",
+  "title": "Certificate design tip: name the award for a moment, not a ranking",
+  "description": "Skip Most Improved and MVP. Name the award for something they did, like the Sees-a-Need-and-Fills-It Award for a student who started a peer tutoring table at lunch. Browse 336 free award title ideas for classes, teams, music, dance, camps and clubs. learnerborn can also write the certificate from your notes with AI, for you to review and approve. All names are made up.",
+  "alt_text": "Sample award certificate for Priya in AP English, The Sees-a-Need-and-Fills-It Award, with a paragraph about starting a peer tutoring table at lunch, shown with the teacher's one-sentence note.",
+  "link": "https://learnerborn.com/guides/award-title-ideas",
+  "image_text": {
+   "label": "Sample: high school class award",
+   "headline": "Award titles that never rank anyone",
+   "footer": "Written with AI from the teacher's own notes, then reviewed and approved by the teacher. About a minute per person. All names are made up."
+  },
+  "sample_source": "etsy/kids.json id hsgrad-priya"
+ },
+ {
+  "number": 6,
+  "image": "lb-pin-06.png",
+  "board": "End of season awards for teams",
+  "title": "End of season soccer awards: a certificate and a letter for every player",
+  "description": "End of season idea for a soccer team: two lines of notes about Mia, who moved from defense to midfield and scored her first goal, became an award certificate and a full letter from the coach. Do the same for each player on the roster. Written with AI from your notes, then reviewed and approved by you. About a minute per person. A certificate, a letter, or both. All names are made up.",
+  "alt_text": "Sample soccer award certificate for Mia of the Comets, The First-Goal-Hero Award, next to a five paragraph end of season letter from Coach Dana, with the coach's notes about moving to midfield.",
+  "link": "https://learnerborn.com/end-of-season-letters-to-players",
+  "image_text": {
+   "label": "Sample: end of season, soccer",
+   "headline": "End of season awards for every player",
+   "footer": "Written with AI from the coach's own notes, then reviewed and approved by the coach. About a minute per person. All names are made up."
+  },
+  "sample_source": "etsy/kids.json id mia"
+ },
+ {
+  "number": 7,
+  "image": "lb-pin-07.png",
+  "board": "End of season awards for teams",
+  "title": "End of season letter to a hockey player, written from three lines of coach's notes",
+  "description": "End of season letter idea: Owen could barely stop on his skates in October and was doing crossovers by February. Three lines of a coach's notes became this full letter, and there is a matching award certificate if you want one. One for each player, written with AI from your notes, then reviewed and approved by you. About a minute per person. Works for any team sport. All names are made up.",
+  "alt_text": "Sample end of season letter to Owen from Coach Pete of the Ice Hawks, four paragraphs about learning to stop and skate crossovers, backchecking hard, and tapping the goalie's pads.",
+  "link": "https://learnerborn.com/end-of-season-letters-to-players",
+  "image_text": {
+   "label": "Sample: end of season letter, hockey",
+   "headline": "An end of season letter to a player",
+   "footer": "Written with AI from the coach's own notes, then reviewed and approved by the coach. About a minute per person. All names are made up."
+  },
+  "sample_source": "etsy/kids.json id hockey-owen"
+ },
+ {
+  "number": 8,
+  "image": "lb-pin-08.png",
+  "board": "End of season awards for teams",
+  "title": "End of season cheer awards: a certificate and letter for each cheerleader",
+  "description": "End of season gifts for a cheer team: one line of a coach's notes about Kayla, the loudest voice at every game even when the team was losing by thirty, became an award certificate and a full letter. Make one for each athlete on the squad. Written with AI from your notes, then reviewed and approved by you. About a minute per person. All names are made up.",
+  "alt_text": "Sample cheer award certificate for Kayla of Wildcats Cheer, The Never-Stops-Cheering Award, with a three paragraph letter from Coach Brianna and the coach's one-line note.",
+  "link": "https://learnerborn.com/end-of-season-letters-to-players",
+  "image_text": {
+   "label": "Sample: end of season, cheer",
+   "headline": "End of season cheer awards, one for each athlete",
+   "footer": "Written with AI from the coach's own notes, then reviewed and approved by the coach. About a minute per person. All names are made up."
+  },
+  "sample_source": "etsy/kids.json id cheer-kayla"
+ },
+ {
+  "number": 9,
+  "image": "lb-pin-09.png",
+  "board": "End of season awards for teams",
+  "title": "End of season letter to a baseball player, from one sentence of coach's notes",
+  "description": "End of season idea for baseball and softball teams: one sentence about Noah, scared of the ball in April and diving for grounders at third by June, became this full letter. Add a matching award certificate, or send the letter alone. Written with AI from your notes, then reviewed and approved by you. About a minute per person. All names are made up.",
+  "alt_text": "Sample end of season letter to Noah from Coach Ron of the Cardinals, four paragraphs about getting past his fear of the ball and diving for grounders at third base.",
+  "link": "https://learnerborn.com/end-of-season-letters-to-players",
+  "image_text": {
+   "label": "Sample: end of season letter, baseball",
+   "headline": "Scared of the ball in April. Diving by June.",
+   "footer": "Written with AI from the coach's own notes, then reviewed and approved by the coach. About a minute per person. All names are made up."
+  },
+  "sample_source": "etsy/kids.json id baseball-noah"
+ },
+ {
+  "number": 10,
+  "image": "lb-pin-10.png",
+  "board": "End of season awards for teams",
+  "title": "End of season award ideas for softball: a title and a paragraph for each player",
+  "description": "End of season award idea: Hailey struck out a lot in the spring, kept swinging, and got her first hit in June. A coach's two sentences became The Never-Stopped-Swinging Award, with a full paragraph. Each player gets an award named for their own season. Written with AI from your notes, then reviewed and approved by you. About a minute per person. All names are made up.",
+  "alt_text": "Sample softball award certificate for Hailey of the Lightning, The Never-Stopped-Swinging Award, with a paragraph about her first hit, a line drive over second base, under the coach's notes.",
+  "link": "https://learnerborn.com/guides/end-of-season-award-ideas",
+  "image_text": {
+   "label": "Sample: end of season award, softball",
+   "headline": "End of season award ideas from a sentence or two",
+   "footer": "Written with AI from the coach's own notes, then reviewed and approved by the coach. About a minute per person. All names are made up."
+  },
+  "sample_source": "etsy/kids.json id softball-hailey"
+ },
+ {
+  "number": 11,
+  "image": "lb-pin-11.png",
+  "board": "Thank you letters and notes",
+  "title": "Thank you note to a coach from the whole team, with every player's name signed",
+  "description": "Thank you note idea for the end of the season: one parent jots a few lines about the coach, and learnerborn writes the letter with AI, with every player's name signed at the bottom. You review and approve it before printing. Add a certificate of appreciation if you want one. Works for coaches, teachers, counselors and group leaders. All names are made up.",
+  "alt_text": "Sample thank you letter to Coach Dana from the Comets, four paragraphs about never missing a practice, welcoming new players, and a last game loss, signed by eight players.",
+  "link": "https://learnerborn.com/thank-you-gifts",
+  "image_text": {
+   "label": "Sample: thank you to a coach, from the team",
+   "headline": "A thank you note to the coach, signed by the team",
+   "footer": "One person adds a few notes. Written with AI from those notes, then reviewed and approved before printing. Every name signed. All names are made up."
+  },
+  "sample_source": "etsy-gifts/kids.json id coach-coach-dana"
+ },
+ {
+  "number": 12,
+  "image": "lb-pin-12.png",
+  "board": "Thank you letters and notes",
+  "title": "Thank you note to a teacher from the class, signed by every student",
+  "description": "Teacher appreciation card idea that goes further than a card: three lines of notes from one parent about how Ms. Rivera greets each kid by name and runs the class book club became a full thank you letter, signed by each student. Written with AI from the notes, then reviewed and approved before printing. A certificate of appreciation can go with it. All names are made up.",
+  "alt_text": "Sample thank you letter to Ms. Rivera from Room 12, four paragraphs about greeting students by name, the class book club and patience on hard days, signed by eight students.",
+  "link": "https://learnerborn.com/thank-you-gifts",
+  "image_text": {
+   "label": "Sample: thank you to a teacher, from the class",
+   "headline": "A thank you note to the teacher from the class",
+   "footer": "One person adds a few notes. Written with AI from those notes, then reviewed and approved before printing. Every name signed. All names are made up."
+  },
+  "sample_source": "etsy-gifts/kids.json id teacher-ms-rivera"
+ },
+ {
+  "number": 13,
+  "image": "lb-pin-13.png",
+  "board": "Thank you letters and notes",
+  "title": "Thank you note to a camp counselor, from the whole cabin",
+  "description": "Thank you note idea for the last day of camp: a few lines about Counselor Sam, who told stories after lights out on homesick nights and led the campfire songs, became a full letter signed by each camper in the cabin. Written with AI from one person's notes, then reviewed and approved before printing. All names are made up.",
+  "alt_text": "Sample thank you letter to Counselor Sam from Cabin 7, four paragraphs about homesick nights, campfire songs and turns on the lake, signed by seven campers.",
+  "link": "https://learnerborn.com/thank-you-gifts",
+  "image_text": {
+   "label": "Sample: thank you to a camp counselor",
+   "headline": "A thank you note for the camp counselor",
+   "footer": "One person adds a few notes. Written with AI from those notes, then reviewed and approved before printing. Every name signed. All names are made up."
+  },
+  "sample_source": "etsy-gifts/kids.json id camp-counselor-sam"
+ },
+ {
+  "number": 14,
+  "image": "lb-pin-14.png",
+  "board": "Thank you letters and notes",
+  "title": "Thank you note and certificate for a team mom, signed by the whole team",
+  "description": "Thank you note idea for the team mom or team parent who ran the snack schedule, the group texts and the last game banner. One person adds a few notes and learnerborn writes a certificate, a letter, or both, with every player's name signed. Written with AI from those notes, then reviewed and approved before printing. All names are made up.",
+  "alt_text": "Sample certificate of appreciation for Dana, team mom of the Lightning, The Kept-Us-Together Award, and a four paragraph thank you letter about snacks, group texts, sunscreen and the banner, signed by seven players.",
+  "link": "https://learnerborn.com/thank-you-gifts",
+  "image_text": {
+   "label": "Sample: thank you to a team parent",
+   "headline": "Thank the team parent who kept it all running",
+   "footer": "One person adds a few notes. Written with AI from those notes, then reviewed and approved before printing. Every name signed. All names are made up."
+  },
+  "sample_source": "etsy-gifts/kids.json id teammom-dana"
+ },
+ {
+  "number": 15,
+  "image": "lb-pin-15.png",
+  "board": "Thank you letters and notes",
+  "title": "Thank you note for a team manager: rainouts, rides and the equipment bag",
+  "description": "Thank you note idea for the volunteer who handled each schedule change and rainout, drove kids to games and kept the equipment bag in order. A few lines of notes became a full letter, signed by every player. Written with AI from one person's notes, then reviewed and approved before printing. Works for any team, class, club or camp. All names are made up.",
+  "alt_text": "Sample thank you letter to Rob, team manager of the Lightning, four paragraphs about rainouts, driving kids to games and the equipment bag, signed by seven players.",
+  "link": "https://learnerborn.com/thank-you-gifts",
+  "image_text": {
+   "label": "Sample: thank you to a team manager",
+   "headline": "A thank you note for the team manager",
+   "footer": "One person adds a few notes. Written with AI from those notes, then reviewed and approved before printing. Every name signed. All names are made up."
+  },
+  "sample_source": "etsy-gifts/kids.json id teammom-rob"
+ },
+ {
+  "number": 16,
+  "image": "lb-pin-16.png",
+  "board": "Coach and teacher gifts",
+  "title": "Soccer coach gift ideas: a certificate and thank you letter signed by the team",
+  "description": "Soccer coach gift idea for the end of the season: a certificate of appreciation and a full thank you letter about what the coach really did, like staying after practice and learning each kid's name on day one. One person adds the notes, and every player's name is signed. Written with AI from those notes, then reviewed and approved before printing. All names are made up.",
+  "alt_text": "Sample coach gift for Coach Lee, assistant coach of the Comets: The Always-There-for-Us Award certificate and a four paragraph thank you letter signed by eight players.",
+  "link": "https://learnerborn.com/thank-you-gifts",
+  "image_text": {
+   "label": "Sample: soccer coach gift, from the team",
+   "headline": "Soccer coach gift ideas: words they will keep",
+   "footer": "One person adds a few notes. Written with AI from those notes, then reviewed and approved before printing. Every name signed. All names are made up."
+  },
+  "sample_source": "etsy-gifts/kids.json id coach-coach-lee"
+ },
+ {
+  "number": 17,
+  "image": "lb-pin-17.png",
+  "board": "Coach and teacher gifts",
+  "title": "Football and soccer coach gift ideas: a thank you letter from the whole team",
+  "description": "Coach gift idea that takes no shelf space: a thank you letter about the Saturdays and weeknights the coach gave up, and the energy at the last practice. One parent writes a few notes, every player's name is signed, and you can add a certificate of appreciation. Written with AI from the notes, then reviewed and approved before printing. All names are made up.",
+  "alt_text": "Sample thank you letter to Coach Maria from the Comets, four paragraphs about giving up Saturdays, bringing energy to the last practice, and believing in the team after a loss, signed by eight players.",
+  "link": "https://learnerborn.com/thank-you-gifts",
+  "image_text": {
+   "label": "Sample: coach gift, from the team",
+   "headline": "Coach gift ideas: a letter from the whole team",
+   "footer": "One person adds a few notes. Written with AI from those notes, then reviewed and approved before printing. Every name signed. All names are made up."
+  },
+  "sample_source": "etsy-gifts/kids.json id coach-appreciation-coach-maria"
+ },
+ {
+  "number": 18,
+  "image": "lb-pin-18.png",
+  "board": "Coach and teacher gifts",
+  "title": "Teacher appreciation gifts: a certificate and letter for a music teacher from the class",
+  "description": "Teacher appreciation gift idea for a music, dance or classroom teacher: a few notes about calming nerves before the spring recital and helping each kid find a piece they loved became a certificate of appreciation and a full letter, signed by every student. Written with AI from one parent's notes, then reviewed and approved before printing. All names are made up.",
+  "alt_text": "Sample teacher appreciation gift for Ms. Alvarez of Harmony Studio: The Patience and Heart Award certificate and a five paragraph letter about the spring recital, signed by seven students.",
+  "link": "https://learnerborn.com/thank-you-gifts",
+  "image_text": {
+   "label": "Sample: music teacher gift, from the class",
+   "headline": "Teacher appreciation gifts with every name on it",
+   "footer": "One person adds a few notes. Written with AI from those notes, then reviewed and approved before printing. Every name signed. All names are made up."
+  },
+  "sample_source": "etsy-gifts/kids.json id music-ms-alvarez"
+ },
+ {
+  "number": 19,
+  "image": "lb-pin-19.png",
+  "board": "Coach and teacher gifts",
+  "title": "Teacher appreciation gift idea: a letter from the whole class, every name signed",
+  "description": "Teacher appreciation week idea: one parent jots three things the teacher does, like staying after school and checking in on hard days, and learnerborn writes a thank you letter with every student's name signed. Written with AI from those notes, then reviewed and approved before printing. Add a certificate of appreciation if you like. All names are made up.",
+  "alt_text": "Sample teacher appreciation letter to Mrs. Lee from Room 12, four paragraphs about staying after school, the reading corner and noticing hard days, signed by eight students.",
+  "link": "https://learnerborn.com/thank-you-gifts",
+  "image_text": {
+   "label": "Sample: teacher appreciation letter",
+   "headline": "Teacher appreciation, from the whole class",
+   "footer": "One person adds a few notes. Written with AI from those notes, then reviewed and approved before printing. Every name signed. All names are made up."
+  },
+  "sample_source": "etsy-gifts/kids.json id teacher-appreciation-mrs-lee"
+ },
+ {
+  "number": 20,
+  "image": "lb-pin-20.png",
+  "board": "Coach and teacher gifts",
+  "title": "Cheer coach gift ideas: a certificate and thank you letter from the whole group",
+  "description": "Gift idea for a cheer, dance, gymnastics or martial arts coach: notes about showing a skill again and again until it clicked, and cheering the loudest when it did, became a certificate of appreciation and a thank you letter signed by every student. Written with AI from one person's notes, then reviewed and approved before printing. All names are made up.",
+  "alt_text": "Sample coach gift for Ms. Tran of Riverside Studio: The One-More-Try Award certificate and a three paragraph thank you letter, signed by six students.",
+  "link": "https://learnerborn.com/thank-you-gifts",
+  "image_text": {
+   "label": "Sample: studio coach gift, from the class",
+   "headline": "Cheer, dance and gym coach gift ideas",
+   "footer": "One person adds a few notes. Written with AI from those notes, then reviewed and approved before printing. Every name signed. All names are made up."
+  },
+  "sample_source": "etsy-gifts/kids.json id instructor-ms-tran"
+ },
+ {
+  "number": 21,
+  "image": "lb-pin-21.png",
+  "board": "Recital and camp keepsakes",
+  "title": "Recital certificate idea for dancers: an award for moving up to Level 3",
+  "description": "Recital keepsake idea for a dance studio: one sentence of a teacher's notes, that Isla moved up to Level 3 after working on her turnout all year, became this full certificate. Also for music recitals, new levels, belt promotions and showcases. A certificate, a letter, or both for each student, written with AI from your notes and reviewed and approved by you. About a minute per person. All names are made up.",
+  "alt_text": "Sample ballet certificate for Isla of Ballet Level 3, The Earned-It Award, with a paragraph about moving up after a year of work on her turnout, under the teacher's one-sentence note.",
+  "link": "https://learnerborn.com/recital-certificates",
+  "image_text": {
+   "label": "Sample: ballet, moving up a level",
+   "headline": "A recital keepsake for moving up a level",
+   "footer": "Written with AI from the teacher's own notes, then reviewed and approved by the teacher. About a minute per person. All names are made up."
+  },
+  "sample_source": "etsy/kids.json id balletlevel-isla"
+ },
+ {
+  "number": 22,
+  "image": "lb-pin-22.png",
+  "board": "Recital and camp keepsakes",
+  "title": "Recital and concert keepsake: a letter to a band student about her trumpet solo",
+  "description": "Keepsake idea after a recital or winter concert: two lines of a band director's notes about Sofia, who practiced her trumpet solo every morning before school, became a full letter, with one thing to keep working on. Add a matching certificate if you want. Written with AI from your notes, then reviewed and approved by you. About a minute per person. All names are made up.",
+  "alt_text": "Sample letter to Sofia from Mr. Ortiz of the Westfield Middle School Band, four paragraphs about practicing a trumpet solo every morning and playing it at the winter concert.",
+  "link": "https://learnerborn.com/recital-certificates",
+  "image_text": {
+   "label": "Sample: winter concert letter, band",
+   "headline": "A keepsake letter after the winter concert",
+   "footer": "Written with AI from the teacher's own notes, then reviewed and approved by the teacher. About a minute per person. All names are made up."
+  },
+  "sample_source": "etsy/kids.json id band-sofia"
+ },
+ {
+  "number": 23,
+  "image": "lb-pin-23.png",
+  "board": "Recital and camp keepsakes",
+  "title": "Camp certificate and letter for each camper, from a line of counselor's notes",
+  "description": "End of camp keepsake idea: one line of a counselor's notes about Luna, who led the color war tug of war and then cheered for the other team, became a camp certificate and a full letter. Make one for each camper in the cabin or group. Written with AI from your notes, then reviewed and approved by you. About a minute per person. All names are made up.",
+  "alt_text": "Sample camp certificate for Luna of Cabin 4, The Lead-with-Heart Award, and a three paragraph letter from Counselor Matt about the color war tug of war, with the counselor's note.",
+  "link": "https://learnerborn.com/camp-certificates",
+  "image_text": {
+   "label": "Sample: end of camp, day camp",
+   "headline": "Camp keepsakes for each camper",
+   "footer": "Written with AI from the counselor's own notes, then reviewed and approved by the counselor. About a minute per person. All names are made up."
+  },
+  "sample_source": "etsy/kids.json id daycamp-luna"
+ },
+ {
+  "number": 24,
+  "image": "lb-pin-24.png",
+  "board": "Recital and camp keepsakes",
+  "title": "Camp keepsake letter for a young writer, from two sentences of counselor's notes",
+  "description": "Keepsake idea for the last day of camp: two sentences about Nadia, who wrote a mystery about a missing library cat and read it at Friday author share, became this full letter. Works for sports camps, art camps, science camps and day camps. Add a certificate, or send the letter alone. Written with AI from your notes, then reviewed and approved by you. About a minute per person. All names are made up.",
+  "alt_text": "Sample camp letter to Nadia from Ms. Harper at Young Writers Camp, three paragraphs about revising the ending of her mystery story and reading it aloud at author share.",
+  "link": "https://learnerborn.com/camp-certificates",
+  "image_text": {
+   "label": "Sample: end of camp letter, writing camp",
+   "headline": "A camp letter about the story she wrote",
+   "footer": "Written with AI from the counselor's own notes, then reviewed and approved by the counselor. About a minute per person. All names are made up."
+  },
+  "sample_source": "etsy/kids.json id writecamp-nadia"
+ },
+ {
+  "number": 25,
+  "image": "lb-pin-25.png",
+  "board": "Recital and camp keepsakes",
+  "title": "Recital certificate wording for a tap dancer: an award named for her solo",
+  "description": "Recital keepsake idea: a teacher's two sentences about Penny, who learned her shuffle ball change on both feet and nailed the time step in her solo, became a full recital certificate. Make one for each dancer in the class. A certificate, a letter, or both, written with AI from your notes and reviewed and approved by you. About a minute per person. All names are made up.",
+  "alt_text": "Sample tap recital certificate for Penny of Tap 2, The Time-Step-Superstar Award, with a paragraph about her solo eight counts, shown with the teacher's notes.",
+  "link": "https://learnerborn.com/recital-certificates",
+  "image_text": {
+   "label": "Sample: tap recital certificate",
+   "headline": "Recital certificate wording for each dancer",
+   "footer": "Written with AI from the teacher's own notes, then reviewed and approved by the teacher. About a minute per person. All names are made up."
+  },
+  "sample_source": "etsy/kids.json id tap-penny"
+ },
+ {
+  "number": 26,
+  "image": "lb-pin-26.png",
+  "board": "End of year letters to students",
+  "title": "End of year letter to students: a full letter from three sentences of notes",
+  "description": "End of year letter to students idea: three sentences of a teacher's notes about Jonah, who came in at lunch to practice long division and was explaining it to his table group by May, became this full letter. One for each student, plus a certificate if you want. Written with AI from your notes, then reviewed and approved by you. About a minute per person. All names are made up.",
+  "alt_text": "Sample end of year letter to Jonah from Mrs. Patel, Room 14, five paragraphs about practicing long division at lunch and teaching it to his table group.",
+  "link": "https://learnerborn.com/end-of-year-letters-to-students",
+  "image_text": {
+   "label": "Sample: end of year, fifth grade",
+   "headline": "An end of year letter to a student",
+   "footer": "Written with AI from the teacher's own notes, then reviewed and approved by the teacher. About a minute per person. All names are made up."
+  },
+  "sample_source": "etsy/kids.json id fifth-jonah"
+ },
+ {
+  "number": 27,
+  "image": "lb-pin-27.png",
+  "board": "End of year letters to students",
+  "title": "End of year letter to students moving up: one about a big turnaround in math",
+  "description": "End of year letter idea for 8th grade promotion or graduation: one sentence about Marcus, who went from failing math to a B plus by coming to study hall each day, became a full letter. Also for teams, clubs and camps at the end of their year. Written with AI from your notes, then reviewed and approved by you. About a minute per person. All names are made up.",
+  "alt_text": "Sample end of year letter to Marcus of Lincoln Middle School from Mr. Kim, four paragraphs about going from failing math to a B plus by going to study hall each day.",
+  "link": "https://learnerborn.com/end-of-year-letters-to-students",
+  "image_text": {
+   "label": "Sample: end of year, 8th grade",
+   "headline": "End of year letter for a student moving up",
+   "footer": "Written with AI from the teacher's own notes, then reviewed and approved by the teacher. About a minute per person. All names are made up."
+  },
+  "sample_source": "etsy/kids.json id eighth-marcus"
+ },
+ {
+  "number": 28,
+  "image": "lb-pin-28.png",
+  "board": "End of year letters to students",
+  "title": "End of year letter to students in preschool: a graduation keepsake for each child",
+  "description": "Preschool graduation keepsake idea: one sentence about Jayden, who was very quiet at first and by spring was telling the whole circle about his new baby sister, became a full letter from his teacher. Make one for each child, with a certificate if you want. Written with AI from your notes, then reviewed and approved by you. About a minute per person. All names are made up.",
+  "alt_text": "Sample preschool graduation letter to Jayden from Miss Amy of the Sunflower Room, six short paragraphs about finding his voice at circle time.",
+  "link": "https://learnerborn.com/end-of-year-letters-to-students",
+  "image_text": {
+   "label": "Sample: preschool graduation",
+   "headline": "A preschool graduation letter for each child",
+   "footer": "Written with AI from the teacher's own notes, then reviewed and approved by the teacher. About a minute per person. All names are made up."
+  },
+  "sample_source": "etsy/kids.json id preschool-jayden"
+ },
+ {
+  "number": 29,
+  "image": "lb-pin-29.png",
+  "board": "End of year letters to students",
+  "title": "End of year letter to students graduating high school, from one sentence of notes",
+  "description": "End of year letter to a senior: one sentence about Ava, who rewrote her college essay six times after school and never got discouraged by the red ink, became this full letter. A graduation keepsake for each student in the class, with a certificate if you want. Written with AI from your notes, then reviewed and approved by you. About a minute per person. All names are made up.",
+  "alt_text": "Sample graduation letter to Ava from Ms. Romero, AP English, three paragraphs about rewriting her college essay six times without getting discouraged.",
+  "link": "https://learnerborn.com/guides/a-letter-for-every-student",
+  "image_text": {
+   "label": "Sample: senior year, AP English",
+   "headline": "A letter for a senior, from one sentence",
+   "footer": "Written with AI from the teacher's own notes, then reviewed and approved by the teacher. About a minute per person. All names are made up."
+  },
+  "sample_source": "etsy/kids.json id hsgrad-ava"
+ },
+ {
+  "number": 30,
+  "image": "lb-pin-30.png",
+  "board": "End of year letters to students",
+  "title": "End of year letter to students and a matching award, for each one in the class",
+  "description": "End of year idea for a class, team or club: one sentence about Aiden, who kept trying on a fractions quiz and got his best score yet, became an award certificate and a full letter. A sentence or two about each student is enough. Written with AI from your notes, then reviewed and approved by you. About a minute per person. All names are made up.",
+  "alt_text": "Sample fourth grade award certificate for Aiden of Room 8, The Never-Gave-Up Award, beside a three paragraph letter from Mr. Brooks about sticking with fractions, with the teacher's note.",
+  "link": "https://learnerborn.com/guides/a-letter-for-every-student",
+  "image_text": {
+   "label": "Sample: end of year, fourth grade",
+   "headline": "End of year letter and award for each student",
+   "footer": "Written with AI from the teacher's own notes, then reviewed and approved by the teacher. About a minute per person. All names are made up."
+  },
+  "sample_source": "etsy/kids.json id fourth-aiden"
+ }
+]
